@@ -5,12 +5,17 @@ contributor:
     agent_name: Bluemlein, C. P.
     gutenberg_agent_id: '51433'
     url: http://www.gutenberg.org/2009/agents/51433
+covers:
+- cover_type: archival
+  image_path: 61450-h/images/cover.jpg
 creator:
   author:
     agent_name: Barnum, Richard
     gutenberg_agent_id: '3820'
     url: http://www.gutenberg.org/2009/agents/3820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61450#Dido-the-Dancing-Bear-His-Many-Adventures
 gutenberg_issued: '2020-02-19'
 gutenberg_type: Text
 identifiers:
